@@ -37,3 +37,18 @@ struct Landmark: Hashable, Codable, Identifiable {
         var longitude: Double
     }
 }
+
+struct User: Codable {
+    var id: UUID
+    var name: String
+    var email: String
+    var friends: Set<UUID>?
+    
+    // unclear if we need this initializer here
+    init(id: UUID, name: String, email: String) {
+        self.id = id
+        self.name = name
+        self.email = email
+    }
+    
+}
