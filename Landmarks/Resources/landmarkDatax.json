@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Tacos Charly",
+        "category": "Taqueria",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 19.293317,
+            "longitude": -99.169950
+        },
+        "description": "El mejor suadero que hayas probado en tu vida, ven y conócenos.",
+        "imageName": "tacos_charly"
+    },
+    {
+        "name": "La Pingüica",
+        "category": "Taqueria",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 19.444194,
+            "longitude": -99.166275
+        },
+        "description": "Los tacos de suadero son de los mejores que se puede comer.",
+        "imageName": "la_pinguica"
+    },
+    {
+        "name": "El Turix",
+        "category": "Taqueria",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 19.431289,
+            "longitude": -99.201230
+        },
+        "description": "Exquisitos tacos de cochinita, los panuchos son bien diferentes.",
+        "imageName": "el_turix"
+    },
+    {
+        "name": "Quesadillas toñita",
+        "category": "Quesadillas",
+        "city": "Mexico",
+        "country": "Mexico",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 19.070286970400026,
+            "longitude": -98.69523241591413
+        },
+        "description": "This place also deserves a star.",
+        "imageName": "quesadillas_tonita"
+    }
+]
